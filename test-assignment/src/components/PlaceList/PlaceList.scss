@@ -1,0 +1,10 @@
+.preview-img:first-child{
+    border-radius:20px 0px 0px 20px !important;
+}
+.preview-img:last-child{
+    border-radius:0px 20px 20px 0px !important;
+}
+
+.box-image-preview{
+    overflow: hidden;
+}

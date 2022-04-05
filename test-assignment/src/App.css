@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+.container-root{
+  width: 100%;
+  padding: 0 !important;
+}
+.toolbar-head{
+  background-color: #134B8A;
+}
